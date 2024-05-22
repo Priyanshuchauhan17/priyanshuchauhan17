@@ -1,3 +1,4 @@
+![logo](https://github.com/Priyanshuchauhan17/priyanshuchauhan17/blob/main/Screenshot%20from%202024-05-22%2019-57-51.png)
 <h1 align="center">Hi 👋, I'm Priyanshu chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt"coading" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
