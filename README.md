@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshuchauhan17&show_icons=true&locale=en" alt="priyanshuchauhan17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuchauhan17&" alt="priyanshuchauhan17" /></p>
+### ⏳ Contribution Timeline  
+<br clear="both">
+<img src="https://raw.githubusercontent.com/priyanshuchauhan17/priyanshuchauhan17/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
