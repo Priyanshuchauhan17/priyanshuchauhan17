@@ -4,9 +4,9 @@
 
 <img align="right" height="150" src="/a09mus.gif" />
 
-- 🌱 I’m currently learning **React js, Mongo DB ,NOde js**
+- 🌱 I’m currently learning ** Mongo DB ,NOde js**
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,JS,LINUX cmd**
+- 💬 Ask me about **HTML,CSS,Tailwind css,JS,LINUX React js,**
 
 - 📫 How to reach me **https://t.ly/i17ye**
 
